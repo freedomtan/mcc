@@ -1,0 +1,10 @@
+ % sudo ./mcc
+Password:
+2021-10-09 20:28:20.232 mcc[21432:332427] dict matched {
+    IOProviderClass = AppleT8103MemCacheController;
+}
+2021-10-09 20:28:20.232 mcc[21432:332427] service matched 4099
+2021-10-09 20:28:20.232 mcc[21432:332427] cache count = 0x2
+2021-10-09 20:28:20.232 mcc[21432:332427] cache size = 0x800000
+2021-10-09 20:28:20.232 mcc[21432:332427] cache size = 0x800000
+2021-10-09 20:28:20.232 mcc[21432:332427] total cache size = 0x1000000 (16777216)
